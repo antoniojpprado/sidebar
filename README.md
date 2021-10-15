@@ -16,6 +16,7 @@
 
 Este projeto tem por objetivo a realização de exercícios demonstrando alguns dos recursos do React e do Typescript, no desenvolvimento de FrontEnd's, com a biblioteca styled-components.
 
+
 Este projeto apresenta todas as funcionalidades de uma NavBar e SideBar.
 
 
