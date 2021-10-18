@@ -73,9 +73,9 @@ export const SidebarLink = styled(NavLink)`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 3.75rem;
-  font-size: 1.125rem;
-  padding: 2rem;
+  height: 0.1rem;
+  font-size: 1rem;
+  padding: 1.5rem;
   text-decoration: none;
   color: #334A52;
 
@@ -94,7 +94,7 @@ export const DropdownLink = styled(NavLink)`
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  height: 3.75rem;
+  height: 0.1rem;
   font-size: 1.125rem;
   padding-left: 3rem;
   text-decoration: none;
